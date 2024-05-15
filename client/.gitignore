@@ -1,0 +1,5 @@
+# This is a .gitignore file
+# It tells Git to ignore certain files or directories
+
+# Ignore node_modules directory
+/node_modules/
